@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Adithi N</h1>
-<h3 align="center">🚀 Passionate Engineering Student</h3>
+<h3 align="center">🚀 Aspiring Engineering Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Turning+ideas+into+code;Always+learning+new+things;" alt="Typing SVG" />
