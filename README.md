@@ -21,7 +21,7 @@
 ### 💼 Tech Stack
 
 ```bash
-💻 Languages:        Python, JavaScript, C/C++, Java  
+💻 Languages:        Python, Java, JavaScript, C
 🌐 Frontend:         HTML, CSS, Bootstrap, TailwindCSS   
 🗄️ Databases:        MongoDB, MySQL, SQL
 ⚙️ Tools & Platforms: Git, VS Code, Linux
