@@ -13,7 +13,7 @@
 - 🎓 Engineering student at **Canara Engineering College**
 - 💡 Always exploring **new technologies** and **creative ideas**
 - 👨‍💻 Love working on **projects** and **collaborations**
-- 📚 Currently learning: `Python`, `Docker`, `MongoDB`,`FastAPI`
+- 📚 Currently learning: `Python`, `MongoDB`
 - 🎯 Goals: Sharpen full-stack skills and contribute to real-world products
 
 ---
